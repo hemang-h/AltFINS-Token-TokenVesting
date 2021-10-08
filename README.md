@@ -1,2 +1,3 @@
 # AltFINS-Token-TokenVesting
-Unlocking in linear timelock
+Unlocking in linear fashion
+
